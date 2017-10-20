@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.0.1)
+  - IQKeyboardManagerSwift (5.0.2)
+  - Kingfisher (4.1.0)
+  - Realm (2.10.2):
+    - Realm/Headers (= 2.10.2)
+  - Realm/Headers (2.10.2)
+  - SnapKit (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0.0)
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - Realm
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  IQKeyboardManagerSwift: e580da046d804d2836ee84668cc17e43a850a35d
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  Realm: 0ef72b837fb67e9f4b098bac771ddd72c7fdbb69
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+
+PODFILE CHECKSUM: ff6cf73756e6125632d4d12b8eb4fc6763b88963
+
+COCOAPODS: 1.2.1
